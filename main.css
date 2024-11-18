@@ -1,0 +1,14 @@
+h1{
+    font-weight: 900;
+    font-size:60px;
+
+}
+body{
+    background-color: rgba(0, 0, 0, 0.766);
+}
+button{
+    background-color: rgba(0, 0, 0, 0.444);
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0);
+}
